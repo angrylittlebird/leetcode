@@ -78,5 +78,5 @@
 | 73 | 129. Sum Root to Leaf Numbers |https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/|[recursive](./src/main/java/com/learning/_129/Solution2.java)| tree |2020/10/22|
 | 74 | 437. Path Sum III |https://leetcode-cn.com/problems/path-sum-iii/|[recursive](./src/main/java/com/learning/_437/Solution.java)| tree |2020/11/03|
 | 75 | 235. Lowest Common Ancestor of a Binary Search Tree |https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/|[recursive](./src/main/java/com/learning/_235/Solution.java)| tree |2020/11/04|
-| 75 | 98. Validate Binary Search Tree |https://leetcode-cn.com/problems/validate-binary-search-tree/|[recursive](./src/main/java/com/learning/_98/Solution.java),[mid-order](./src/main/java/com/learning/_98/Solution2.java)| tree |2020/11/04|
+| 76 | 98. Validate Binary Search Tree |https://leetcode-cn.com/problems/validate-binary-search-tree/|[recursive](./src/main/java/com/learning/_98/Solution.java),[mid-order](./src/main/java/com/learning/_98/Solution2.java)| tree |2020/11/04|
 | 77 | 450. Delete Node in a BST |https://leetcode-cn.com/problems/delete-node-in-a-bst/|[recursive](./src/main/java/com/learning/_450/Solution.java)| tree |2020/11/10|
